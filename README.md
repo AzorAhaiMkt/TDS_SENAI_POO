@@ -6,4 +6,4 @@ Prezados
 Projeto Orientado a Objetos | TDS
 
 Atenciosamente,
-Equipe de Desenvolvimento.455
+Equipe de Desenvolvimento.
